@@ -1,0 +1,25 @@
+{
+  "name": "playcanvas-config-json-compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorIFGD/playcanvas-config-json-compressor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorIFGD/playcanvas-config-json-compressor/issues"
+  },
+  "homepage": "https://github.com/IgorIFGD/playcanvas-config-json-compressor#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsonpack": "^1.1.5",
+    "pako": "^2.1.0"
+  }
+}
